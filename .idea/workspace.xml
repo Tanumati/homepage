@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14800b67-a119-4e6a-b38f-b82293d6b89c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArraayLoop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/Age_Vote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/CityName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/META-INF/Operators.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/MathsCalculation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/OddEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/StudentResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/UpperLower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ifelse/out/production/Operators/ValueDefine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance Practice/Inheritance Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/Locators.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/NopCommerce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/OrangeRegister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/out/production/Locators/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/NopCommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/OrangeRegister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Locators/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Operators/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sheinfunctionality/Sheinfunctionality.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../String practice/String practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenhomework/mavenhomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice array/practice array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ifelse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ifelse/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BasePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1506#1507#0" expanded="true" />
+                <element signature="e#1559#1560#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1810#1811#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Resources/Testconfig.Properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LoadProps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#664#665#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LoadProps.java" />
+        <option value="$PROJECT_DIR$/src/main/Resources/Testconfig.Properties" />
+        <option value="$PROJECT_DIR$/src/main/java/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Functionality.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="3" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Homepage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Resources/Browserdriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homepage\src\main\Resources\Browserdriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.Functionality">
+    <configuration name="Functionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homepage" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Functionality" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functionality.UserShouldBeAbleToAddCommentSuccessfullyAndAlwaysDisplayAtTheBottom" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homepage" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Functionality" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToAddCommentSuccessfullyAndAlwaysDisplayAtTheBottom" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homepage" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Functionality" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToAddTwoProductInAddToCompareList" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homepage" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Functionality" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functionality.UserShouldBeAbleToSearchSpecificBrand" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Homepage" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Functionality" />
+      <option name="METHOD_NAME" value="UserShouldBeAbleToSearchSpecificBrand" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Functionality" />
+        <item itemvalue="TestNG.Functionality.UserShouldBeAbleToSearchSpecificBrand" />
+        <item itemvalue="TestNG.Functionality.UserShouldBeAbleToAddCommentSuccessfullyAndAlwaysDisplayAtTheBottom" />
+        <item itemvalue="TestNG.Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully" />
+        <item itemvalue="TestNG.Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14800b67-a119-4e6a-b38f-b82293d6b89c" name="Default Changelist" comment="" />
+      <created>1569777185642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569777185642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Functionality - 2019.10.02 at 21h 57m 37s.xml">
+      <configuration name="Functionality" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality - 2019.10.02 at 22h 05m 39s.xml">
+      <configuration name="Functionality" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality - 2019.10.02 at 22h 15m 24s.xml">
+      <configuration name="Functionality" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality_UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully - 2019.10.02 at 22h 17m 59s.xml">
+      <configuration name="Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality_UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully - 2019.10.02 at 22h 21m 27s.xml">
+      <configuration name="Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality_UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully - 2019.10.02 at 22h 24m 46s.xml">
+      <configuration name="Functionality.UserShouldBeAbleToAddTwoProductInAddToCompareListSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality_UserShouldBeAbleToAddCommentSuccessfullyAndAlwaysDisplayAtTheBottom - 2019.10.02 at 22h 26m 09s.xml">
+      <configuration name="Functionality.UserShouldBeAbleToAddCommentSuccessfullyAndAlwaysDisplayAtTheBottom" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality_UserShouldBeAbleToSearchSpecificBrand - 2019.10.02 at 22h 26m 58s.xml">
+      <configuration name="Functionality.UserShouldBeAbleToSearchSpecificBrand" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality - 2019.10.02 at 22h 31m 18s.xml">
+      <configuration name="Functionality" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Functionality - 2019.10.02 at 22h 36m 21s.xml">
+      <configuration name="Functionality" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.096066564" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.56301147" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/asserts/SoftAssert.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LoadProps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Resources/Testconfig.Properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/service/DriverCommandExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Functionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1116">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#5560#5568#0" expanded="true" />
+            <element signature="e#6508#6509#0" expanded="true" />
+            <element signature="e#6540#6541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1506#1507#0" expanded="true" />
+            <element signature="e#1559#1560#0" expanded="true" />
+            <element signature="e#1766#1767#0" expanded="true" />
+            <element signature="e#1810#1811#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
